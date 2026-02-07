@@ -1,0 +1,10 @@
+anthropic
+jinja2
+python-dotenv
+tiktoken
+streamlit
+pypdf
+pymupdf
+unstructured-client
+sentence-transformers
+numpy
