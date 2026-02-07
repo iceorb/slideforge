@@ -1,9 +1,10 @@
 # Secrets - API keys
 fruzaqla_pipeline/secrets.py
 
-# Private data - inputs and outputs
+# Private data - inputs, outputs, and templates
 inputs/
 output/
+fruzaqla_pipeline/templates/
 
 # Python
 __pycache__/
