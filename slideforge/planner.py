@@ -48,12 +48,12 @@ class Planner:
             }
 
         system_prompt = """
-        You are an expert presentation planner for a pharmaceutical brand "Fruzaqla".
+        You are an expert presentation planner for pharmaceutical brands.
         Based on the user's request, determine the appropriate number of slides and create an outline.
         If the user specifies a number of slides, use that. Otherwise, choose a reasonable number (typically 3-7) based on the breadth of the topic.
         Return a JSON object with a key "slides" containing a list of objects, each with "title" and "topic_description".
         The "topic_description" should be detailed enough to search for content.
-        Example: { "slides": [ { "title": "Efficacy Overview", "topic_description": "Key efficacy statistics and study results for Fruzaqla" } ] }
+        Example: { "slides": [ { "title": "Efficacy Overview", "topic_description": "Key efficacy statistics and study results" } ] }
         """
 
         try:

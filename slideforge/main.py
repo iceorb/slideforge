@@ -7,7 +7,7 @@ from generator import Generator
 import config
 
 def main():
-    parser = argparse.ArgumentParser(description="Fruzaqla Presentation Generator")
+    parser = argparse.ArgumentParser(description="SlideForge Presentation Generator")
     parser.add_argument("--query", type=str, required=True, help="User query for the presentation")
     parser.add_argument("--mock", action="store_true", help="Run in mock mode without API calls")
     args = parser.parse_args()

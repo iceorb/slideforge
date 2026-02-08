@@ -13,10 +13,10 @@ import config
 
 
 # Page config
-st.set_page_config(page_title="Fruzaqla Presentation Generator", page_icon="💊", layout="wide")
+st.set_page_config(page_title="SlideForge", page_icon="📊", layout="wide")
 
 # Title and Description
-st.title("Fruzaqla Presentation Generator")
+st.title("SlideForge")
 st.markdown("Generate compliant HTML presentations based on approved verification content.")
 
 # Sidebar Configuration
@@ -70,7 +70,7 @@ if uploaded_files:
 
 # Query Input
 st.subheader("2. Define Presentation")
-query = st.text_area("What should this presentation cover?", value="Make a 3 slide presentation focusing on Fruzaqla study design, efficacy results, and safety", height=100)
+query = st.text_area("What should this presentation cover?", value="Create a 3-slide presentation on key efficacy and safety data", height=100)
 
 # Generate Buttons
 col1, col2 = st.columns(2)
