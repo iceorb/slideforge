@@ -2,8 +2,8 @@
 
 Companies spend upwards of $500,000-$1,000,000 annually on marketing slide production—cycling through agencies, compliance reviews, and endless revision rounds. SlideForge collapses that workflow into minutes. Upload your brand guidelines, prescribing information, and visual assets once. From there, every presentation is generated on-demand: on-brand, on-label, and ready for MLR. 
 
+<img width="1024" height="547" alt="image" src="https://github.com/user-attachments/assets/11f2f942-aac6-478f-b8bf-7dc78aabe9b2" />
 
-<img width="1024" height="547" alt="image" src="https://github.com/user-attachments/assets/d45f8c66-535f-4472-97d9-6962ad21d14b" />
 
 * Important information redacted.
 
